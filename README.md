@@ -20,6 +20,11 @@ Bem-vindo(a) ao meu repositório central de estudos e desenvolvimento profission
 Meu_Study_Hub_TI/
 ├── 01_Apresentacao_e_Perfil/       # Biografia, objetivos e dados pessoais
 ├── 02_Disciplinas_Atuais/           # Conteúdos, resumos e entregas académicas
-│   ├── Bootcamp_I/
-│   └── Banco_de_Dados_e_Backend/
+│   ├── banco_de_dados/
+│   ├── bootcamp/
+│   ├── desenvolvimento_de_interfaces/
+│   ├── engenharia_de_requisitos/
+│   ├── matemática_para_computação/
+│   ├── programação_orientada_a_objetos/
+│   └── rede_de_computadores/
 └── 03_Projetos_e_Certificados/     # Projetos práticos e certificações obtidas
